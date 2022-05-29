@@ -3,7 +3,7 @@
 - 📖 Estou aprendendo HTML, CSS, JavaScript e SQL
 
 <div>
-  <a href="https://github.com/henriquewaisman">
+  <a href="https://github.com/henriquewaisman](https://github.com/henriquewaisman?tab=repositories">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquewaisman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquewaisman&layout=compact&langs_count=7&theme=dracula"/>
 </div>
