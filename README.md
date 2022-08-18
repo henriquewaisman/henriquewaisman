@@ -1,6 +1,6 @@
 ### Olá, meu nome é Henrique Waisman
-- 🎓 Estudante de Ciência da Computação na Universidade de Vila Velha (UVV)
-- 📖 Aprendendo HTML, CSS, JavaScript, SQL, C, Python e Java
+- 🎓 Ciência da Computação na Universidade de Vila Velha (UVV)
+- 📖 HTML, CSS, JavaScript, SQL, C, Python & Java
 
 <div>
   <a href="https://github.com/henriquewaisman?tab=repositories">
