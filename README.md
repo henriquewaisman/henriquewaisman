@@ -1,4 +1,4 @@
-### Olá, meu nome é Henrique Waisman 👋
+### Olá, meu nome é Henrique Waisman
 - 🎓 Estudante de Ciência da Computação na Universidade de Vila Velha (UVV)
 - 📖 Aprendendo HTML, CSS, JavaScript, SQL, C, Python e Java
 
